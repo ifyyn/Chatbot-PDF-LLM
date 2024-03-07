@@ -5,11 +5,9 @@
 --------
 
 
-<h1>Hi 👋, I'm Fathul Arifin</h1>
-<h2>🤓 I'am currently taking the IBM Academy Advance AI Independent Study in Infinite Learning 🤓</h2>
-
-<h3>I'm, 🤓 front end developer</h3>
-<h3>I'm, 🤓 from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Fathul Arifin</h1>
+<h2 align="center">🤓 I'am currently taking the IBM Academy Advance AI Independent Study in Infinite Learning 🤓</h2>
+<h3 align="center">I'm, 🤓 from Indonesia</h3>
 
 
 
